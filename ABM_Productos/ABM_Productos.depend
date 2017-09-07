@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1464725005 source:f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm_productos\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1464724444 f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm_productos\lib.h
+
+1464724940 source:f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm_productos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
